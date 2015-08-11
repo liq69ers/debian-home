@@ -8,6 +8,7 @@ alias mx='chmod a+x'
 alias perm='stat --printf "%a %n \n "'	# requires a file name e.g. perm file
 
 #ls
+alias ls='ls --color=auto'
 alias l='ls'
 alias ll='ls -l'
 alias la='ls -al'
